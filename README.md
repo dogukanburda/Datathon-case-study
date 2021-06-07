@@ -9,3 +9,9 @@ Features that were taken into account were temperature, humidity, pressure, wind
 
 
 Awarded 2nd place in the contest.
+
+[PairGrid](visuals/PairGrid.png)
+[PowerWOAvailability](visuals/PowerWOAvailability.png)
+[sigmoidfit](visuals/sigmoidfit.png)
+[windrose](visuals/windrose.png)
+[predictions](visuals/predictions.png)
